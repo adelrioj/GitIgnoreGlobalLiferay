@@ -9,6 +9,9 @@ logs/
 #Maven target files
 target/
 
+#jRebel config file
+rebel.xml
+
 # JAVA JDK
 *.class
 # Mobile Tools for Java (J2ME)
