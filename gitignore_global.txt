@@ -1,3 +1,6 @@
+*~
+.DS_Store
+
 #ignore thumbnails created by windows
 Thumbs.db
 
@@ -71,3 +74,4 @@ local.properties
 .target
 # TeXlipse plugin
 .texlipse
+
